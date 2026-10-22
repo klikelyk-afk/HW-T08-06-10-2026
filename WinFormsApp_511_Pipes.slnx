@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="App_Client/App_Client.csproj" />
+  <Project Path="App_Server/App_Server.csproj" />
+  <Project Path="WinFormsApp_511_Pipes/WinFormsApp_511_Pipes.csproj" />
+</Solution>
